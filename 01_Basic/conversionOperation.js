@@ -11,4 +11,10 @@ let valueInNumber = Number(score);
 let isLoggedIn = "false"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn);
-console.log(booleanIsLoggedIn)
+//console.log(booleanIsLoggedIn)
+
+
+let gameScore = 3;
+
+console.log(gameScore++);
+// console.log(++gameScore);
